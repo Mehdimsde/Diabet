@@ -5,3 +5,5 @@ azureml-core
 azureml-train
 azureml-widgets
 azureml-automl-core
+ython2.7 -m pip uninstall setuptools #remove the version for python2.7
+pip install setuptools # install the python3.7 version
