@@ -1,3 +1,8 @@
 scikit-learn
 streamlit
 pandas
+azureml-core
+azureml-train
+azureml-widgets
+azureml.dataprep==2.26.0
+azure-mgmt-resource==20.1.0
