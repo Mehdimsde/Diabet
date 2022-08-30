@@ -4,3 +4,4 @@ pandas
 azureml-core
 azureml-train
 azureml-widgets
+azureml-automl-core
