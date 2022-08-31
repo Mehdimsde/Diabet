@@ -2,4 +2,3 @@ scikit-learn
 streamlit
 pandas
 azureml-core>=1.15.0
-azureml-automl-core
