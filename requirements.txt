@@ -5,5 +5,4 @@ azureml-core
 azureml-train
 azureml-widgets
 azureml-automl-core
-python2.7 pip uninstall setuptools #remove the version for python2.7
 pip install setuptools 
