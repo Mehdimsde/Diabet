@@ -3,3 +3,4 @@ streamlit
 pandas
 azureml-core>=1.15.0
 azure-ai-ml
+azureml-automl-runtime
