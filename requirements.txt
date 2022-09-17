@@ -1,5 +1,6 @@
 mlflow
 streamlit
+scikit-learn
 fsspec==2022.7.1
 certifi==2022.6.15
 pytz==2022.1
