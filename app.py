@@ -10,7 +10,7 @@ st.write("""
 This app predicts the **Price Diabet** 
 """)
 
-st.sidebar.image("image2.jpeg",width=300)
+st.sidebar.image("causes-of-diabetes.png",width=300)
 
 option = st.selectbox(
      'How would you like to use the prediction model?',
