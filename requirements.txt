@@ -1,6 +1,3 @@
-streamlit
-scikit-learn
-pandas
 mlflow
 fsspec==2022.7.1
 certifi==2022.6.15
